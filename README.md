@@ -7,7 +7,7 @@
 
 ## Pyschology Health is...
 
-    - how we think, fell and behave in ways that contribute to our life
+    - how we think, feel and behave in ways that contribute to our life
 
 ## Maslows Hierarchy of Needs 
 ![alt text](image-4.png)
