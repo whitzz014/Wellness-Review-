@@ -257,7 +257,8 @@
 # EXAM 2 REVIEW (WEEK 7-8)
 
 # WEEK 7
- 
+    - Ali is a bitch
+    
 # WEEK 8
 
 # EXAM 3 REVIEW (WEEK 10-14)
