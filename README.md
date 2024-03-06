@@ -7,7 +7,7 @@
 
 ## Pyschology Health is...
 
-    - how we think, fell and behave in ways that contribute to our life
+    - how we think, feel and behave in ways that contribute to our life
 
 ## Maslows Hierarchy of Needs 
 ![alt text](image-4.png)
@@ -447,7 +447,7 @@
 - tone of voice accounts for 38% of the impact and 
 - 
 - facial expressions account for 55% of our emotional impact on others.  
-
+    
 # WEEK 8
 
 # EXAM 3 REVIEW (WEEK 10-14)
