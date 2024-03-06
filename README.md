@@ -7,7 +7,7 @@
 
 ## Pyschology Health is...
 
-    - how we think, feel and behave in ways that contribute to our life
+    - how we think, fell and behave in ways that contribute to our life
 
 ## Maslows Hierarchy of Needs 
 ![alt text](image-4.png)
@@ -440,14 +440,41 @@
  - a constructive response to a person’s self disclosure
  - giving positive feedback means acknowledging that the feelings are valid
 
-#### Nonverbal Communication 
+### Nonverbal Communication 
+---
 - 65-90% of communication is non verbal 
-- the words we choose only account for 7% of our emotional impact on others.  
-- 
-- tone of voice accounts for 38% of the impact and 
-- 
-- facial expressions account for 55% of our emotional impact on others.  
-    
+    - the words we choose only account for 7% of our emotional impact on others.  
+    - tone of voice accounts for 38% of the impact and 
+    - facial expressions account for 55% of our emotional impact on others.  
+
+- Refers to the transmission of messages through means other than words.  
+- Nonverbal messages can accompany verbal messages or stand alone. 
+- The general purpose of nonverbal communication is to communicate the feeling behind a message.  
+
+### Types of Nonverbal Behaviour 
+#### Kinesics 
+- look and appearance, eye contact, body and facial expressions
+    - smiling/frowning, posture, eye contact all of these things tell a story about us. We are able to communicate over one thousand distinct expressions with our faces
+#### Haptics 
+- Touching 
+    - we use touch to emphasize that we know how someone feels
+#### Paralanguage 
+- Vocal, but nonverbal messages that we indicate with our voice
+    - may include tone, speed and use of silence.
+    - for example, when we gasp, the volume, pitch and tone of our voice, how we pronounce words, the accents we use. 
+
+- Paralanguage can indicate if we’re joking, being sarcastic, questioning or threatening someone and may be used as a punishment
+
+#### Proxemics - how to use space
+- Public 4m+  
+![alt text](image-19.png)
+- Social 1-2m  
+![alt text](image-20.png)
+- Personal 45-60cm   
+![alt text](image-21.png)
+- Intimate 15cm- 
+![alt text](image-22.png)  
+
 # WEEK 8
 
 # EXAM 3 REVIEW (WEEK 10-14)
