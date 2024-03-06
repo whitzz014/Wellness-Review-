@@ -256,8 +256,198 @@
         
 # EXAM 2 REVIEW (WEEK 7-8)
 
-# WEEK 7
+# WEEK 7 - HEALTHY RELATIONSHIPS AND COMMUNICATION 
+### Developing Close Relationships
+---
+- Willingness to give of oneself 
+    - share ideas, feelings, time, needs - and to accept what others want to give 
+- Self-Concept and Self-Esteem 
+    - A positive self-concept and a healthy sense of self are essential for developing close relationships 
+- Friendship Characteristics 
+    - Companionship
+    - Respect
+    - Acceptance
+    - Help
+    - Trust
+    - Loyalty
+    - Mutuality
+    - Reciprocity
+### Love
+---
+- Love is one of the most basic and profound  human emotions 
+    - can be characterized as authentic or inauthentic 
+
+#### Authenic Love
+- knowing the person
+- caring for them
+- respect
+- dignity
+- responsibility 
+- growth, 
+- commitment 
+- trust 
+
+#### Inauthentic Love 
+- need to be in charge 
+- rigid & unrealistic expectations 
+- loves conditionally 
+- untrusting 
+- lacks commitment 
+- manipulation 
+
+#### The Triangle of Love 
+- There are 3 dimensions of a loving relationship
+    - Intimacy 
+    - Passion 
+    - Commitment 
+
+##### Intimacy 
+- Not about physical contact 
+- it is about the emotional closeness 
+- want us close to us to know our inner selves and to let us know theirs
+- intimacy implies that people who are in a relationship care about each others happiness 
+
+#### Passion 
+- Often the first thing that springs to mind when we think about romance 
+- Intensely positive feelings and desires for another person 
+- may invole intense emotional, spiritual and intellectual attraction 
+
+#### Commitment 
+- the intention to remain with a reltionship 
+    - commitment is not the same thing as love 
+- decide based on the investments we put into the relationship 
+- involes responsibility 
+    - responsibilty of commitment are to make a relationship a priority, invest continously   
+
+### Characteristics of Successful Romantic Relationships 
+- Intimate Familiarity 
+    - couples know each others goals, concerns and hopes 
+- Fondness and Admiration
+    - Once couples loses honour and respect for eachother it is hard to rekindle the relationship 
+- Connectedness 
+    - individuals honors each other
+    - apprieciate others perspective 
+- Shared Sense of Power 
+    - when couples disagree, they look for common gorund (<strong>NOT</strong> my way or highway)
+- Shared Goals 
+    - partners incorporate each others goals into their concept of what their intimate relationships is about 
+- Open Communication 
+    - can talk with full honesty and openess about beliefs / morales 
+
+### Challenges in Romantic Relationships 
+--- 
+- Honesty and openness 
+- Unequal or premature commitment
+- Unrealistic expectations
+- Competitiveness
+- Balancing time spent together and apart
+- Jealousy
+- Supportiveness 
+
+### Pairing and Singlehood 
+--- 
+- The decision to <i>live together</i> in a common law or co-habitating relationship has become a social norm  
+- Same sex relationships have similarities to hetrosexual relationships 
+    - tend to be more equal (50/50) in decisions 
+
+#### Singlehood 
+- Number of singles is growing in Canada 
+- Education and careers are delaying marriage 
+- High divorce rates mean more singles 
+
+### Marriage
+---
+- Benefits of marriage 
+    - Affection
+    - companionship 
+    - sexual fulfillment 
+    - emotional growth 
+    - partnership 
+
+### Family Life 
+---
+- Becoming a Parent 
+    - martial satisfaction declines after fist born 
+
+- Successful Families 
+   - Commitment
+   - Appreciation
+   - Communication
+   - Time together
+   - Spiritual wellness
+   - Coping with stress and crisis
+
+### Separation and Divorce 
+---
+- Divorce is one of lifes greatest stressful events 
+- Childern are especially vulnerable to trauma 
+
+### Ending a Romantic Relationship 
+--- 
+- Give the relationship a fair chance before breaking up
+- Be fair and honest
+- Be tactful and compassionate
+- If you are the rejected person, give yourself time to resolve your anger and pain
+- Recognize the value in the experience
+
+### Responses to Conflict 
+--- 
+#### Four Common response to Conflict 
+1. Exit (aggresion)
+    - active and destructive
+    - leaving the rationship physically or psychologically 
+2. Negelect (Passive Aggrestion)
+    - passive and destructive 
+    - minimizing or denying that conflict exists 
+3. Loyalty (non-assertion)
+    - passive and constructive 
+    - remaining commited to the relationship 
+    - choosing to put up with differences 
+4. Voice (assertion) - <strong>Most Constructive Strategy</strong>
+    - active and constructive 
+    - activley seeking to talk openly about the conflict and resolving it 
+
+### Signs That Could Indicate an Abusive Relationship 
+--- 
+- Verbal put downs
+- Withholding love and affection
+- Striking, hitting, pushing
+- Using physical or psychological threats
+- Making promises, yet never keeping them
+- Unpredictable behaviour
+- Extreme jealousy/possessiveness
+- Chronic hostility and sarcasm
+
+### Communication 
+---
+- Communication is the sending, receiving and understanding of messages 
+
+#### 3  Key Elements for Effective Communication
+- Self-disclosure 
+- Listening 
+- Feedback 
  
+#### Self-Disclosure  
+ - revealing personal information that you ordinarily wouldn’t reveal because of the  risk involved
+ - friends often disclose the most to each other
+ - married couples sometimes share less because they think they already know everything there is to know about each other
+
+ #### Listening - <strong>Rare Skill</strong>
+ - More time listening and trying to understand, less time judging, evaluating, blaming, advising or trying to control
+ - to connect with other people and develop real intimacy, listening is essential. 
+ 
+ #### Feedback 
+ - a constructive response to a person’s self disclosure
+ - giving positive feedback means acknowledging that the feelings are valid
+
+#### Nonverbal Communication 
+- 65-90% of communication is non verbal 
+- the words we choose only account for 7% of our emotional impact on others.  
+- 
+- tone of voice accounts for 38% of the impact and 
+- 
+- facial expressions account for 55% of our emotional impact on others.  
+
 # WEEK 8
 
 # EXAM 3 REVIEW (WEEK 10-14)
