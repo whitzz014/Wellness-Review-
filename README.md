@@ -472,10 +472,166 @@
 ![alt text](image-20.png)
 - Personal 45-60cm   
 ![alt text](image-21.png)
-- Intimate 15cm- 
+- Intimate 15cm-     
 ![alt text](image-22.png)  
+## Week 8 - Addictions – Drugs and Wellness
 
-# WEEK 8
+### Substance Use and Sociological Definition of Drugs
+
+- **Substance Use:**
+  - Short-term positive effects: lifting mood, relaxation, increased energy.
+  - Negative effects: increased anxiety or depression, overdose, health damage.
+  
+- **Sociological Definition of Drugs:**
+  - Chemical substances that:
+    - Have a direct effect on the user’s functioning.
+    - Have the potential to be abused.
+    - Have adverse consequences for the individual and/or society.
+
+### Drugs and Addictive Behaviours
+
+- **Drugs Definition:**
+  - Chemicals other than food intended to affect the structure or function of the body.
+  - Examples: prescription medicines, over-the-counter substances, illegal substances.
+
+- **Addictive Behaviours:**
+  - Any activity, substance, object, or behavior that becomes the major focus of a person's life, harming them physically, mentally, or socially.
+
+- **Abuse vs. Addiction:**
+  - Drug abuse: Violation of acceptable social standards.
+  - Drug addiction: Compulsive desire, need for increased dosage, harmful effects to the individual and society.
+
+### Characteristics of Addiction
+
+1. **Reinforcement:**
+   - Produces pleasurable physical or emotional states or relieves negative ones.
+2. **Compulsion or Craving:**
+3. **Loss of Control:**
+4. **Escalation:**
+5. **Negative Consequences:**
+   - Academic, job, health, relationships, legal.
+   
+### The Drug Tradition
+
+- Using drugs to alter consciousness is an ancient and universal pursuit.
+- Modern pharmacy and pharmacology started in the 19th century.
+- Canada passed drug laws in the early 1900s to regulate drug sales and manufacturing.
+
+### Who Uses Drugs?
+
+- All income and education levels, ethnic groups, and ages.
+- Young people at higher risk.
+- Males twice as likely.
+- Reasons: Experimentation, Escape, Coping.
+
+## Risks of Drug Use
+
+- Intoxication, unexpected side effects, legal consequences.
+- Long-term use impacts brain functioning (learning, judgment, decision-making, memory, behavior).
+
+## Commonly Abused Drugs and Their Effects
+
+1. **Opioids:**
+   - Relieves pain, causes drowsiness, induces euphoria.
+   - Commonly used: fentanyl, heroin, morphine, oxycodone.
+   - Nearly 8000 Canadians died from apparent opioid overdoses in 2021.
+
+2. **Central Nervous System Depressants:**
+   - Types: 'downers,' anti-anxiety agents.
+   - Examples: Valium, Xanax, Ativan.
+
+3. **Central Nervous Systems Stimulants:**
+   - Speed up nervous or muscular system.
+   - Examples: Cocaine, amphetamines, Ritalin, caffeine.
+
+4. **Marijuana:**
+   - Long-term effects: respiratory damage, behavioral dependence, withdrawal symptoms.
+   - Legalized for recreational use in Canada (2018).
+   - Medical use for symptoms like pain, nausea.
+
+5. **Hallucinogens:**
+   - Altered perceptions, feelings, and thoughts.
+   - Examples: LSD, ecstasy, ketamine.
+
+6. **Inhalants:**
+   - Inhaling chemicals for effects ranging from pleasure to delirium and death.
+   - Common among teens aged 15-17.
+
+### Marijuana Legal Perspective
+
+- Recreational cannabis legalized in Canada on Oct. 17, 2018.
+- Adults 18 years or older federally (19 in Ontario) can possess, share, purchase, and grow cannabis.
+
+### Marijuana Health Risks
+
+- Brain development impact until around age 25.
+- Impact on attention, memory, learning.
+- Health risks during pregnancy and breastfeeding.
+
+### Looking Ahead: A Wellness Approach to Addiction Treatment
+
+- Puts the individual at the center for reflection on goals, desires, needs, and resources.
+- May involve changing social attitudes or policies causing harm.
+
+### Connections Between Wellness Dimensions and Drug Use
+
+- **Physical, Emotional, Intellectual, Interpersonal, Spiritual, Environmental.**
+
+# Addictions - Alcohol and Wellness
+
+## Alcohol
+
+- Alcoholic drink contains ethanol, a psychoactive ingredient.
+- Central nervous system depressant.
+- Average first use in Canada is 13.5 years.
+- Chronic liver disease is a leading cause of death in 24-34-year-olds.
+- Alcohol consumption is a risk factor for certain cancers.
+
+## Alcohol and the Central Nervous System
+
+1. Slows brain functions, reaction time.
+2. Dulls alertness.
+3. Impairs body coordination.
+4. Intensifies emotions.
+5. Lowers inhibitions.
+6. Increases risk-taking behavior.
+
+- Alcohol is water-soluble, transported by blood.
+- Rapidly enters bloodstream through stomach, small intestine.
+- Metabolized by the liver.
+- Rate of absorption affected by various factors.
+
+## Men, Women, and Alcohol
+
+- Blood alcohol concentration (BAC) influenced by factors.
+- Women have less body water than men.
+- Pregnancy: Alcohol in early stages can cause fetal alcohol syndrome.
+- Binge drinking defined and associated risks.
+
+## Alcohol and Health - Dependency
+
+- Acute alcoholics have trouble controlling use.
+- Chronic alcoholics lost control, engage in compulsive behavior.
+- Warning signs of alcohol dependency.
+
+## Alcohol and Health - Long-term Effects
+
+- Can lead to cancer, heart disease, stroke, type 2 diabetes.
+- May contribute to mental health problems.
+- Brain damage, death.
+- Hangover symptoms and alcohol poisoning risks.
+
+## Impacts of Alcohol
+
+- Leading cause of drug-related deaths.
+- Associated with aggression, violence.
+- Affects decision-making ability.
+- High impaired driving rates in young adults.
+- Decrease in impaired driving incidents from 2019 to 2020.
+
+## Connections Between Wellness Dimensions and Alcohol Use
+
+- Physical, Interpersonal, Emotional, Intellectual, Spiritual, Environmental.
 
 # EXAM 3 REVIEW (WEEK 10-14)
 # WEEK 10
